@@ -1,0 +1,20 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "A test package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugomd/test-package.git"
+  },
+  "author": {
+    "name": "Hugo Muller-Downing",
+    "email": "npmjs@hugo.sx",
+    "url": "hu.md"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hugomd/test-package/issues"
+  },
+  "homepage": "https://github.com/hugomd/test-package#readme"
+}
